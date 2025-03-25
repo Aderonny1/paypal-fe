@@ -1,2 +1,2 @@
-print('welcome to the world og IT')
-
+print('online banking apps')
+print ('fintech')
